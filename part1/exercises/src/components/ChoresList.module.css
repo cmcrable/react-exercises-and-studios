@@ -1,7 +1,14 @@
 .choresText {
-   color: black;
+   color: rgb(206, 85, 206);
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 1.3vw;
+   font-style: italic;
+   text-align: left;
 }
 
 .choresHeading {
-   color: black;
+   color: orange;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   text-decoration: underline;
+   text-align: left;
 }
