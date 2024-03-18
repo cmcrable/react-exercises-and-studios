@@ -1,7 +1,9 @@
 import recipedata from "./recipe.json";
 
 function RecipeName() {
-  return recipedata;
+  <h1>{recipedata.name}</h1>
+  //return recipedata; // causes error
+  return null;
 }
 
 export default RecipeName;

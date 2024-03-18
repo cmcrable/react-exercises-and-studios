@@ -7,6 +7,7 @@ import RecipeImage from "./components/RecipeImage";
 import RecipeName from "./components/RecipeName";
 
 export default function App() {
+  
   return (
     <>
       <RecipeImage />
